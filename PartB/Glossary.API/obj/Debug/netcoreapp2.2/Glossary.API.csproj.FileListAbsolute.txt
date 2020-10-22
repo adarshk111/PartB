@@ -1,0 +1,14 @@
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\bin\Debug\netcoreapp2.2\Glossary.API.deps.json
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\bin\Debug\netcoreapp2.2\Glossary.API.runtimeconfig.json
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\bin\Debug\netcoreapp2.2\Glossary.API.runtimeconfig.dev.json
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\bin\Debug\netcoreapp2.2\Glossary.API.dll
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\bin\Debug\netcoreapp2.2\Glossary.API.pdb
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.csproj.CoreCompileInputs.cache
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.RazorAssemblyInfo.cache
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.RazorAssemblyInfo.cs
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.AssemblyInfoInputs.cache
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.AssemblyInfo.cs
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.RazorTargetAssemblyInfo.cache
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.dll
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.pdb
+C:\Users\147308\source\repos\Glossary.API\Glossary.API\obj\Debug\netcoreapp2.2\Glossary.API.csprojAssemblyReference.cache

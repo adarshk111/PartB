@@ -1,0 +1,18 @@
+td.action-cell {
+    text-align: right;
+}
+
+.text-center{
+    width: 100%;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  padding: 35px;
+}
+.header-align-right{
+    text-decoration: solid;
+    padding: 21px 0;
+  }
+  .action-link {
+      cursor: pointer;
+      text-decoration: underline;
+  }

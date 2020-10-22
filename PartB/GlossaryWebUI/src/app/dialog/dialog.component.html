@@ -1,0 +1,18 @@
+<h1 mat-dialog-title>Action :: <strong>{{action}}</strong></h1>
+<div mat-dialog-content style="width: 500px;">
+  <div *ngIf="action != 'Delete'; else elseTemplate">
+    <mat-form-field >
+    <textarea [formControl]="termFormControl" id ="term" placeholder="{{action}} Term" matInput ></textarea>
+  </mat-form-field>
+<mat-form-field >
+    <textarea [formControl]="definitionFormControl" id = "definition" placeholder="{{action}} Definition" matInput></textarea>
+  </mat-form-field>
+</div>
+  <ng-template #elseTemplate>
+    Sure to delete <b>{{glossaryTerm.term}}</b>?
+  </ng-template>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="doAction()" [disabled]="isAddDisabled()">{{action}}</button>
+  <button mat-button (click)="closeDialog()" mat-flat-button color="warn">Cancel</button>
+</div>

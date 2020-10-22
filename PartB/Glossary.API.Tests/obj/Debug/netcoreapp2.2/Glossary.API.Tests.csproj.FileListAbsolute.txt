@@ -1,0 +1,17 @@
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Glossary.API.Tests.deps.json
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Glossary.API.Tests.runtimeconfig.json
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Glossary.API.Tests.runtimeconfig.dev.json
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Glossary.API.Tests.dll
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Glossary.API.Tests.pdb
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Glossary.API.dll
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\bin\Debug\netcoreapp2.2\Glossary.API.pdb
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\obj\Debug\netcoreapp2.2\Glossary.API.Tests.csprojAssemblyReference.cache
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\obj\Debug\netcoreapp2.2\Glossary.API.Tests.csproj.CoreCompileInputs.cache
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\obj\Debug\netcoreapp2.2\Glossary.API.Tests.AssemblyInfoInputs.cache
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\obj\Debug\netcoreapp2.2\Glossary.API.Tests.AssemblyInfo.cs
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\obj\Debug\netcoreapp2.2\Glossary.API.Tests.csproj.CopyComplete
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\obj\Debug\netcoreapp2.2\Glossary.API.Tests.dll
+C:\Users\147308\source\repos\Glossary.API\Glossary.API.Tests\obj\Debug\netcoreapp2.2\Glossary.API.Tests.pdb
